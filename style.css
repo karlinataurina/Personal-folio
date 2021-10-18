@@ -258,6 +258,7 @@ p {
     font-family: inherit;
     font-size: 1rem;
     color: #fff;
+    caret-color: #f1663c;
 
     border: 0;
     background-color: rgba(255, 255, 255, .1);
